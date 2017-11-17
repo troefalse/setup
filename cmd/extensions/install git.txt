@@ -1,0 +1,17 @@
+New git install: 
+https://git-scm.com/downloads 
+
+Update git install: 
+git clone https://github.com/git/git 
+
+Setup git with username: 
+git config --global user.name "Name Example"
+git config --global user.email "email@example.com"
+
+Setup repository locally: 
+git init 
+git clone https://github.com/troefalse/setup.git 
+
+
+
+
